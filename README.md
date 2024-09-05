@@ -29,7 +29,7 @@ Assembly Pics:
 Note: I hot glue my screen so I removed the posts for the screws as I switched to a larger screen from the .96" used in this guide made by <a href="https://www.printables.com/@TonyG">TonyG</a> on Printables. Alot of the base of this work comes from what he did, but I modified and rebuilt some of the model to allow the bigger screen and some internal changes that came with a wider device. You could print his smaller design, but the larger, easier to read screen will not fit. When there is support for a larger screen such as the 1.54, I will update my design to include that as an option. I dont want to repost TonyG's work on the smaller screen. Also you could go thinner on the back cover but on some of my nodes I put a 3000mah batter in there and needed the extra depth. I just use some thick double sided clear tape to hold the batter in place so if I want I can upgrade to the larger battery at any time without a reprint.<br><br>
 
 Screen Wiring - Note the location of VCC and Ground. It may be different on your screen.
-<img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/583944124df42389fef9086c5ece1834378ca0b8.png"><br>
+<img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/images/583944124df42389fef9086c5ece1834378ca0b8.png"><br>
 
 
-<img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/RAK_Assembly.jpg">
+<img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/images/RAK_Assembly.jpg">
