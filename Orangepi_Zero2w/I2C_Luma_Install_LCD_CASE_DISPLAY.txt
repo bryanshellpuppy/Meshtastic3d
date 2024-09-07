@@ -1,0 +1,15 @@
+OrangePI Zero 2w Oled Display Install
+# Update before installing packages.
+sudo apt update
+# Ignore any failed packages for now, the script is ruff right now. Make sure to enable pi-i2c0, 1, 2 in the orangepi-config tool.
+sudo apt-get install libi2c-dev     
+sudo apt-get install python3-smbus python3-dev
+sudo apt-get install i2c-tools python-smbus python-pip python-dev python-imaging
+sudo apt-get install python3-smbus python3-pip python3-dev python3-pil
+sudo pip3 install pillow
+sudo apt-get install  libjpeg-dev build-essential
+sudo apt-get install luma.oled
+sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev libportmidi-dev --fix-missing
+#Get examples
+git clone https://github.com/rm-hull/luma.examples.git
+sudo python3 sys_orange.py -d ssd1306 --width 128 --height 32 --interface i2c --i2c-port 3 --i2c-address 0x3C &
