@@ -1,8 +1,8 @@
 # Meshtastic3d
 Meshtastic Cases and other useful tools.
 
-WARNING!!!!!
-<img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/images/polarity_.jpg">
+<h3>WARNING!!!!!</h3><br>
+<img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/images/polarity_.jpg"><br>
 Check to polarity of your connectors - ALL OF THEM. I have melted enough boards, manufatures do not follow a standard when it comes to knockoff boards vs lipo cells. Make sure you are checking before connecting anything.
 
 Depending on your printer, you may need to print each piece from the large complete STL file. You will also want the Reset Button and the button cover.
