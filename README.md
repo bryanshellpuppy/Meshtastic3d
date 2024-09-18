@@ -1,6 +1,10 @@
 # Meshtastic3d
 Meshtastic Cases and other useful tools.
 
+WARNING!!!!!
+<img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/images/polarity_.jpg">
+Check to polarity of your connectors - ALL OF THEM. I have melted enough boards, manufatures do not follow a standard when it comes to knockoff boards vs lipo cells. Make sure you are checking before connecting anything.
+
 Depending on your printer, you may need to print each piece from the large complete STL file. You will also want the Reset Button and the button cover.
 
 Parts Used - You will need a surface mount momentary switch for the user button. Similar or same as a black solder on click button. (Picture soon)
@@ -30,6 +34,8 @@ Note: I hot glue my screen so I removed the posts for the screws as I switched t
 
 Screen Wiring - Note the location of VCC and Ground. It may be different on your screen.
 <img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/images/583944124df42389fef9086c5ece1834378ca0b8.png"><br>
+
+NOTE STEP 5 IS NO LONGER NEEDED. USE THE USER BUTTON TO CONTROL THE GPS ON / OFF. ITS IN THE CODE NOW.
 
 
 <img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/images/RAK_Assembly.jpg">
