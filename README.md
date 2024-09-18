@@ -31,5 +31,7 @@ Note: I hot glue my screen so I removed the posts for the screws as I switched t
 Screen Wiring - Note the location of VCC and Ground. It may be different on your screen.
 <img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/images/583944124df42389fef9086c5ece1834378ca0b8.png"><br>
 
+NOTE STEP 5 IS NO LONGER NEEDED. USE THE USER BUTTON TO CONTROL THE GPS ON / OFF. ITS IN THE CODE NOW.
+
 
 <img src="https://github.com/bryanshellpuppy/Meshtastic3d/blob/main/images/RAK_Assembly.jpg">
